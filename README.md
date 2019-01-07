@@ -4,8 +4,4 @@ This repo contains the config and devDependencies for getting up and running wit
 
 This .eslintrc uses the airbnb linter configuration and import, path, and React plugins.
 
-`babel-eslint`  
-`eslint-config-airbnb`  
-`eslint-plugin-import`  
-`eslint-plugin-jsx-a11y`  
-`eslint-plugin-react`  
+`npm i babel-eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react -D`  
