@@ -6,7 +6,7 @@
     },
     "sourceType": "module"
   },
-    "rules": {
+  "rules": {
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
     "no-const-assign": "warn",
     "no-this-before-super": "warn",
@@ -24,6 +24,10 @@
       "error",
       "never"
     ]
+  },
+  "env": {
+    "browser": true,
+    "node": true
   },
   "extends": "airbnb",
   "plugins": [
