@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-walruslint",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Adam Anderson"
   },
@@ -10,7 +10,7 @@
   "main": "index.js",
   "peerDependencies": {
     "eslint": ">= 3",
-    "babel-eslint": "^10.0.1",
+    "babel-eslint": "^9.0.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
