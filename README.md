@@ -9,7 +9,7 @@ Walruslint for super quick eslint configuration!
 Go ahead and make yourself an .eslintrc and import walruslint.
 ```
 {
-  "extends": "walruslint"
+  "extends": "eslint-config-walruslint"
 }
 ```
 
