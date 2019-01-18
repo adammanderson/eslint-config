@@ -1,4 +1,4 @@
-# eslint-config-walruslint
+# eslint-config-walruslint (:3 っ)っ
 
 Walruslint for super quick eslint configuration!
 
