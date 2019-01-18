@@ -1,7 +1,22 @@
 # eslint-config
 
-This repo contains the config and devDependencies for getting up and running with ESLint quickly.
+Walruslint for super quick eslint configuration!
 
-This .eslintrc uses the airbnb linter configuration and import, path, and React plugins.
+### Install
+`npm install walruslint -D`
 
-`npm i babel-eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react -D`  
+### Setup
+Go ahead and make yourself an .eslintrc and import walruslint.
+```
+{
+  "extends": "walruslint"
+}
+```
+
+### Peer Dependencies
+`eslint`  
+`babel-eslint`  
+`eslint-config-airbnb`  
+`eslint-plugin-import`  
+`eslint-plugin-jsx-a11y`  
+`eslint-plugin-react`  
