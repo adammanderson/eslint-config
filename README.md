@@ -14,4 +14,6 @@ Go ahead and make yourself an .eslintrc and import walruslint.
 ```
 
 ### Peer Dependencies
-`yarn add eslint babel-eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react`  
+```
+yarn add eslint babel-eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
+```  
